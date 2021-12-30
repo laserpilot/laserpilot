@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hello!
+
+My name is Blair Neal and I'm a creative technologist based in NYC. 
+
+I enjoy writing about many topics related to creative technology in the professional space and sharing as much as I can about what I learn. Find more [here.](https://ablairneal.com/writing)
+
+Formerly, from 2010 to 2020, I was the Chief Creative Technologist at Fake Love, an experiential agency that was owned by the New York Times. You can read more about Fake Love [here](https://ablairneal.com/project/fake-love)
+
 
 <!--
 **laserpilot/laserpilot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
